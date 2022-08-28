@@ -1,5 +1,6 @@
 .idea/
 tags
+build/
 .gradle
 # don't push out -i
 -i
